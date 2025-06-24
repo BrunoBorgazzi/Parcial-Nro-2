@@ -1,0 +1,71 @@
+# Archivos y carpetas de Unity a ignorar
+
+[Llibreria]
+[Llibreria]/
+[Llibreria]\
+
+[Llibreria]
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# Archivos de VS/IDE
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Archivos de macOS
+.DS_Store
+
+# Archivos de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos de Rider
+.idea/
+*.suo
+*.user
+*.userprefs
+
+# Archivos de JetBrains Rider y VS Code
+*.sln*
+*.csproj*
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# Builds de WebGL, Android, etc.
+*.apk
+*.aab
+*.zip
+
+# Unity Collaborate
+.collabignore
+.collab
+
+# Archivos generados por Unity
+*.bak
+*.tmp
+*.temp
+*.pidb.meta
+
+# Carpetas ignorables
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+MemoryCaptures/
+
+# Archivos de configuración local
+*.local
